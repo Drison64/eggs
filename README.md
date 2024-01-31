@@ -427,6 +427,11 @@ If you are reading this it looks like you are looking to add an egg to your serv
 
 * [rabbitmq](/software/rabbitmq)
 
+### Rathole
+
+* [rathole](/software/rathole)
+
+
 ### Reposilite
 
 * [Reposilite](/software/reposilite)
